@@ -19,10 +19,10 @@ Tech👍
 
 <a href="https://www.instagram.com/geonwo_o06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-# <div align="center">👏My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garr15&show_icons=true&theme=radical"/></a>
-</div>
-</div>
+👏My Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Garr15&show_icons=true&theme=radical"/></a> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geon12)](https://solved.ac/geon12/)
+
+
 
 
