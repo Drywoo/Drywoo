@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=kimgeonwoo&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=App Developer&fontSize=80)
 
 🌱Studying app development in DGSW  
 
