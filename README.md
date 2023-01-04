@@ -19,7 +19,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGarr15&count_bg=%23388FBB&title_bg=%23BFBFBF&icon=&icon_color=%2359C2CC&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Tech👍    
+👍 Tech    
+
 <img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -27,7 +28,7 @@ Tech👍
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 
 
-👊I LIKE IT!
+👊 I LIKE IT!
 
 <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white"/> 
@@ -39,11 +40,11 @@ SNS
 <a href="https://www.instagram.com/geonwo_o06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
-👏My Stats
+👏 My Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Garr15&show_icons=true&theme=radical"/></a> 
 
-🕶️Since 2022.03
+🕶️ Since 2022.03
 
 
  
