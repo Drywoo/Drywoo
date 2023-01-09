@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
 
 
-🌕SNS
+SNS
 
 <a href="https://www.instagram.com/geonwo_o06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
