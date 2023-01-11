@@ -6,7 +6,7 @@
 🌱 React Native Noob
 
 
-🌱 Kotlin Lover.
+🌱 Kotlin Lover
 
 
 [![](https://raw.githubusercontent.com/Garr15/Garr15/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
