@@ -6,7 +6,6 @@
 🌱 React Native Noob
 
 
-🌱 Kotlin Lover
 
 
 [![](https://raw.githubusercontent.com/Garr15/Garr15/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -22,10 +21,9 @@
 👍 Tech    
 
 <img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+
 
 
 👊 I LIKE IT!
