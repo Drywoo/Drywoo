@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=App-Developer&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=Ios-Developer&fontSize=80)
 
 * 깃허브 리뉴얼중입니다 새로운 프로젝트! 새로운 노동! *
+
+🌱 당당한 ios 개발자가 될수있도록!
 
 
 🌱 Studying app development in DGSW  
