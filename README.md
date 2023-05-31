@@ -2,13 +2,13 @@
 
 * 깃허브 리뉴얼중입니다 새로운 프로젝트! 새로운 노동! *
 
-🌱 머-찐 ios 개발자가 될수있도록!
+🌱 멋진 ios 개발자가 될수있도록!
 
 
 🌱 Studying app development in DGSW  
 
 
-🌱 React Native Noob
+🌱 I LOVE APPLE
 
 
 
