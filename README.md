@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=App-Developer&fontSize=80)
 
-* 깃허브 리뉴얼중입니다 새로운 프로젝트! 새로운 노동! *
+ 깃허브 리뉴얼중입니다 새로운 프로젝트! 새로운 노동! 
 
 🌱 멋진 ios 개발자가 될수있도록!
 
@@ -18,7 +18,7 @@
 
 ***
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGarr15&count_bg=%23388FBB&title_bg=%23BFBFBF&icon=&icon_color=%2359C2CC&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23414241&title_bg=%23EF5D2F&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 👍 Tech    
 
