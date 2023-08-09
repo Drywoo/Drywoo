@@ -25,15 +25,7 @@
 <img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-
-
-
-👊 I LIKE IT!
-
-<img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> </a>
-<img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
 SNS
 
