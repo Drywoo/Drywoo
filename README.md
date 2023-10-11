@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=iOS_Developer&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=iOS-Developer&fontSize=80)
 
 🌱 Studying iOS app development in DGSW  
 
