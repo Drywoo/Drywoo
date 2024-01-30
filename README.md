@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=iOS-Developer&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=App-Developer&fontSize=80)
 
 🌱 Studying iOS app development in DGSW  
 
-🌱 I LOVE APPLE
+🌱 Want be a mobile developer
 
 [![](https://raw.githubusercontent.com/Garr15/Garr15/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Garr15/Garr15/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Garr15/Garr15/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
